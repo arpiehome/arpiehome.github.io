@@ -1,0 +1,12 @@
+
+@font-face {
+	font-family: 'NiseSega Cyrillic';
+	src: url(../fonts/'NiseSegaCyrillic.eot');
+	src: url(../fonts/'NiseSegaCyrillic.eot?#iefix') format('embedded-opentype'),
+		url(../fonts/'NiseSegaCyrillic.woff2') format('woff2'),
+		url(../fonts/'NiseSegaCyrillic.woff') format('woff'),
+		url(../fonts/'NiseSegaCyrillic.ttf') format('truetype'),
+		url(../fonts/'NiseSegaCyrillic.svg#NiseSegaCyrillic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
